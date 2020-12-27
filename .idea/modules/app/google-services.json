@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419603060725",
+    "firebase_url": "https://madat-database.firebaseio.com",
+    "project_id": "madat-database",
+    "storage_bucket": "madat-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419603060725:android:6573e13273910a0dae32bc",
+        "android_client_info": {
+          "package_name": "com.example.madat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419603060725-gditfn1nuik1nee4ilamu9n79c03m9f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madat",
+            "certificate_hash": "039437bb19fdf6e877a64755b6c11053e531ab13"
+          }
+        },
+        {
+          "client_id": "419603060725-gpf3mea1n1iotrf1h9l3k44mg802ojeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjEb6lQRGsLzNosr6yXQ5BtcMdNGuRjIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419603060725-gpf3mea1n1iotrf1h9l3k44mg802ojeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
